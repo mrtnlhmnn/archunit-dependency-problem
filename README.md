@@ -1,5 +1,5 @@
 # archunit-dependency-problem
-ArchUnit, problem with missing dependencies
+ArchUnit, problem with unwanted dependencies (which are not reported as expected)
 
 ## What is this?
 Description for a potential issue in ArchUnit with detecting and reporting unwanted dependencies between packages.

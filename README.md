@@ -2,7 +2,7 @@
 ArchUnit, problem with missing dependencies
 
 ## What is this?
-Description for a potential issue in ArchUnit with layeredArchitecture
+Description for a potential issue in ArchUnit with detecting and reporting unwanted dependencies between packages.
 
 ## Dependencies
 We have a Spring Boot application with different packages - quite similar to a standard Onion architecture. 

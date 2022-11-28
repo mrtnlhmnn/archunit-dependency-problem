@@ -15,7 +15,7 @@ import java.util.Optional;
 
 /**
  * This class is using EntityData from ...infrastructure.persistence
- * BUT: ArchUnit tests does NOT fail because of this class (which is unexpected) when line 36 is commented out
+ * BUT: ArchUnit test does NOT fail because of this class (which is unexpected) - it fails when line 36 is commented in
  */
 
 @Controller

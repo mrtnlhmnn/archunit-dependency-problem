@@ -11,7 +11,7 @@ import java.util.Optional;
 
 /**
  * This class is using EntityData from ...infrastructure.persistence
- * ArchUnit tests fails because of this class (which is expected and great)
+ * ArchUnit test does fail because of this class (which is expected and great)
  *
  * cf WebControllerIncorrectlyUsingPersistenceData
  */

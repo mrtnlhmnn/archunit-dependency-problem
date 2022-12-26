@@ -4,7 +4,7 @@ ArchUnit, problem with unwanted dependencies (which are not reported as expected
 ## What is this?
 Description for a potential issue in ArchUnit with detecting and reporting unwanted dependencies between packages.
 
-# ArchUnit Issue
+## ArchUnit Issue
 See https://github.com/TNG/ArchUnit/issues/1012
 Will not be fixed as #768 is sufficient, see discussion at #1012
 

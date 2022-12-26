@@ -4,6 +4,10 @@ ArchUnit, problem with unwanted dependencies (which are not reported as expected
 ## What is this?
 Description for a potential issue in ArchUnit with detecting and reporting unwanted dependencies between packages.
 
+# ArchUnit Issue
+See https://github.com/TNG/ArchUnit/issues/1012
+Will not be fixed as #768 is sufficient, see discussion at #1012
+
 ## Dependencies
 We have a Spring Boot application with different packages - quite similar to a standard Onion architecture.
 
@@ -29,3 +33,4 @@ Still, the unwanted dependency from WebControllerIncorrectlyUsingPersistenceData
 in the architecture test. Is there any way of enforcing that? 
 
 Only when commenting in line 36 in class WebControllerIncorrectlyUsingPersistenceData, the dependency violation is shown.
+

@@ -1,6 +1,9 @@
 # archunit-dependency-problem
 ArchUnit, problem with unwanted dependencies (which are not reported as expected)
 
+# Attention
+Code in this repository is not developed any further. The repository has therefore been archived.
+
 ## What is this?
 Description for a potential issue in ArchUnit with detecting and reporting unwanted dependencies between packages.
 
